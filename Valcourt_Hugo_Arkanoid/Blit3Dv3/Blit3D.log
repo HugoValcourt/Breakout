@@ -1,0 +1,9 @@
+[2018-02-23 14:56:05][Info]	Context reports FSAA is available with 8samples
+[2018-02-23 14:56:05][Info]	Requesting FSAA with 8samples
+[2018-02-23 14:56:05][Info]	1 monitor detected.
+[2018-02-23 14:56:06][Info]	Renderer: Intel(R) HD Graphics 530
+[2018-02-23 14:56:06][Info]	OpenGL version supported: 4.5.0 - Build 22.20.16.4749
+[2018-02-23 14:56:06][Info]	Creating TextureManager with 31 maximum bound textures
+[2018-02-23 14:57:22][Info]	Terminated Blit3D
+[2018-02-23 14:57:22][Warning]	Tried to free texture earthorbiter.png but it isn't loaded currently
+[2018-02-23 14:57:22][Info]	TextureManager destroyed
